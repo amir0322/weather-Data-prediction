@@ -74,4 +74,4 @@ Name: [Amir Zaheer]
 
 Institution: [Superior University Gold Campus Lahore]
 
-Email: [amirzaheer2214@gmail.com]
+Email: [su92-bsdsm-f24-032@superior.edu.pk]
